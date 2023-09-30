@@ -1,2 +1,3 @@
 # odin-auth-tutorial
-The Odin Project lesson for learning passpart.js
+
+The Odin Project lesson for learning passport.js
